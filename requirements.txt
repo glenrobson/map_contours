@@ -1,3 +1,2 @@
 imutils
 opencv-python
-numpy
