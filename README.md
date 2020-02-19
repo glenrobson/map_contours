@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/glenrobson/map_contours.svg?branch=master)](https://travis-ci.com/glenrobson/map_contours)
+
 # Map Contours
 This code was developed for the National Library of Wales hackathon in February 2020 and aims to create vector shapes for each field in a Cynefin Tithe Map. 
 
@@ -26,6 +28,11 @@ Once loaded into Mirador you should see the following:
 ![Mirador showing the Tithe Map with annotations loaded](images/Llechryd_mirador.png)
 
 # Usage:
+**Note this code is only tested with Python 3**
+
+Before running the `contour.py` script install the dependencies using:
+
+```pip install -r requirements.txt```
 
 The `contour.py` script takes at a minimum the input IIIF image and IIIF Manifest which contains this IIIF image:
 
