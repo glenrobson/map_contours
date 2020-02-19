@@ -1,0 +1,8 @@
+sudo: false
+language: python
+python:
+  - "3.7"
+install:
+  - pip install -r requirements.txt 
+script:
+  - python contour.py -i http://dams.llgc.org.uk/iiif/2.0/image/4576950 -m http://dams.llgc.org.uk/iiif/2.0/4576949/manifest.json

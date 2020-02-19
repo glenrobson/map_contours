@@ -1,3 +1,12 @@
+# program files:
+
+download.jpg
+annotations.json
+demo.jpg
+
+# vim files
+*.swp
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
