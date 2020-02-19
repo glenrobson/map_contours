@@ -1,4 +1,4 @@
-# map_contours
+# Map Contours
 This code was developed for the National Library of Wales hackathon in February 2020 and aims to create vector shapes for each field in a Cynefin Tithe Map. 
 
 Details on Tithe Maps and how the data was captured can be seen on the [Cynefin pages](https://www.library.wales/digitisation-projects/places-of-wales/about-places-of-wales). To search the Tithe Map data please see [https://places.library.wales](https://places.library.wales/) 
